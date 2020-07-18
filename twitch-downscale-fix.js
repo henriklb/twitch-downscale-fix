@@ -4,10 +4,8 @@
 // @version      2.1
 // @description  disables the annoying video playback downscaling when a tab is inactive
 // @author       Slapsy
-// @match        https://www.tampermonkey.net/index.php?version=4.9.5941&ext=fire&updated=true
 // @match        https://*.twitch.tv/*
 // @match        http://*.twitch.tv/*
-// @match        https://*.jsbin.com/*
 // @grant        none
 // ==/UserScript==
 
