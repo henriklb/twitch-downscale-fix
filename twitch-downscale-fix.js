@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Twitch video downscale fix 2.0
+// @name         Twitch web video player downscale fix
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  have fun!
+// @version      2.1
+// @description  disables the annoying video playback downscaling when a tab is inactive
 // @author       Slapsy
 // @match        https://www.tampermonkey.net/index.php?version=4.9.5941&ext=fire&updated=true
 // @match        https://*.twitch.tv/*
